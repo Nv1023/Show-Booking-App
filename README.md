@@ -26,3 +26,7 @@ A web app for booking tickets of shows for users, and to create venues, shows in
 
 ### Mailhog server will run at 
 ```http://127.0.0.1:5000:8025```
+
+## Author
+Developed by **Nv1023**
+
