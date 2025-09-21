@@ -30,3 +30,7 @@ A web app for booking tickets of shows for users, and to create venues, shows in
 ## Author
 Developed by **Nv1023**
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE).  
+© 2025 Nv1023. All rights reserved.
